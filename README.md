@@ -1,2 +1,2 @@
 # my-project-cinema-club-iitr
-Cinema club website project using HTML and CSS
+This project is created using HTML and CSS
